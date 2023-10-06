@@ -37,13 +37,10 @@ O desenvolvimento do formulário deve seguir o layout existente na guia: **Layou
   - [JQUERY-3.5.1 ](https://jquery.com/download/)
 
 - **Outras Considerações**:
-  - Usar documentação de recursos e estilos conforme este [link:](https://style.fluig.com/)
+  - Usar documentação de recursos e estilos conforme este [link](https://style.fluig.com/)
   - Não deverão ser utilizados outros recursos tecnológicos para desenvolvimento 
   
-  - **TailwindCss**
-- Configuração de Rotas: **React Router Dom**
-- Estado compartilhado entre componentes: **ContextAPI**
-- Os formulários devem ser construídos utilizando: **[Unform](https://unform-rocketseat.vercel.app)**
+ 
 
 ### Sobre o preenchimento dos campos existentes no formulário de cadastro
 
@@ -66,7 +63,7 @@ O desenvolvimento do formulário deve seguir o layout existente na guia: **Layou
   - Os documentos anexados deverão ser armazenados em memória (blob e session storage) para envio
   - O Botão Excluir (lixeira) - Ao excluir o documento, deverá ser excluído da memória
   - O Botão Visualizar (olho) - Ao visualizar o documento, deve ser feito o download
-- **Botão Salvar Fornecedor**: ao clicar no botão, deverá ser aberto modal de loading de envio, e deverá ser formatado um JSON com os dados a serem enviados, conforme exemplo: [jsonExemplo](http://)
+- **Botão Salvar Fornecedor**: ao clicar no botão, deverá ser aberto modal de loading de envio, e deverá ser formatado um JSON com os dados a serem enviados, conforme exemplo: [jsonExemplo](./jsonExemplo/)
 
 ## O que será avaliado no projeto
 
