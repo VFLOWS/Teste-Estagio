@@ -81,7 +81,7 @@ O layout do desafio está em anexo na pasta [docs](./docs/) deste repositório.
 
 ## 📅 Entrega
 
-Esse desafio **deve ser entregue em um repositório público** do github e enviar um e-mail para `taina.sousa@vflows.com.br` **com o link** do repositório e com o assunto **`Entrega de desafio front-end`** para correção. (☞ ﾟヮﾟ)☞
+Esse desafio **deve ser entregue em um repositório público** do github e enviar um e-mail para `contato@vflows.com.br` **com o link** do repositório e com o assunto **`Entrega de desafio front-end`** para correção. (☞ ﾟヮﾟ)☞
 
 ---
 
